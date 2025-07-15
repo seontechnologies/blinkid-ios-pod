@@ -1,0 +1,1 @@
+# blinkid-ios-pod
